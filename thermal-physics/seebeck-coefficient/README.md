@@ -19,7 +19,7 @@ Experimental data were analyzed using linear fitting techniques. Measurement unc
 The measured Seebeck coefficient is consistent with expected values for the material within experimental uncertainty, validating the thermoelectric model.
 
 ## Tools
-Python, NumPy, Matplotlib
+Arduino, LabView
 
 ## Notes
 This project was developed as part of undergraduate coursework in Thermal Physics.
