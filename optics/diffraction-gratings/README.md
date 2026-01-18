@@ -19,7 +19,7 @@ Diffraction angles and intensities were extracted from experimental measurements
 Experimental diffraction angles closely match theoretical predictions. The dependence of diffraction behavior on grating line density is clearly observed.
 
 ## Tools
-Python, NumPy, Matplotlib
+Arduino, LabView
 
 ## Notes
 This project was developed as part of undergraduate coursework in Optics.
